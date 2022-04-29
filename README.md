@@ -1,1 +1,1 @@
-# CMCS_S-n-gal
+Centres de Modélisations et de Calculs Scientifiques (Sénégal)
